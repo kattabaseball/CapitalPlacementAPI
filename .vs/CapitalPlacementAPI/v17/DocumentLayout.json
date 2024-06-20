@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal projects\\CapitalPlacementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF970AF4-FB32-4338-A376-11E460E9B5E3}|CapitalPlacementAPI\\CapitalPlacementAPI.csproj|d:\\personal projects\\capitalplacementapi\\capitalplacementapi\\controllers\\jobformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF970AF4-FB32-4338-A376-11E460E9B5E3}|CapitalPlacementAPI\\CapitalPlacementAPI.csproj|solutionrelative:capitalplacementapi\\controllers\\jobformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobFormsController.cs",
+              "DocumentMoniker": "D:\\Personal projects\\CapitalPlacementAPI\\CapitalPlacementAPI\\Controllers\\JobFormsController.cs",
+              "RelativeDocumentMoniker": "CapitalPlacementAPI\\Controllers\\JobFormsController.cs",
+              "ToolTip": "D:\\Personal projects\\CapitalPlacementAPI\\CapitalPlacementAPI\\Controllers\\JobFormsController.cs",
+              "RelativeToolTip": "CapitalPlacementAPI\\Controllers\\JobFormsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:07:12.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

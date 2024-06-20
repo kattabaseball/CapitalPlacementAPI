@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapitalPlacementAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf7c8d2ca5b61aafa385a1315b7808f25bf89fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapitalPlacementAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapitalPlacementAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
